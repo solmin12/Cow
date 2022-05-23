@@ -1,1 +1,1 @@
-const user = "솔민";
+const user = "솔민2";
